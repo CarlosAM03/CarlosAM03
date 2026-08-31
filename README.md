@@ -31,7 +31,7 @@ My approach is **backend-first and systems-oriented**: build practical solutions
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,ts,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,fastapi,php,laravel" />
 </p>
 
 ### Frontend
