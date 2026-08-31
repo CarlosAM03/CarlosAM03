@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:carlos.b.armenta.0@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/carlos-armenta-727a42346/">Linkedin</a>
   ·
   <a href="https://github.com/CarlosAM03">GitHub</a>
 </p>
