@@ -1,7 +1,7 @@
 <h1 align="center">Carlos Armenta</h1>
 
 <p align="center">
-  <strong>Backend-first Software Engineer</strong>
+  <strong>Backend-first Systems and Solutions Engineer</strong>
 </p>
 
 <p align="center">
